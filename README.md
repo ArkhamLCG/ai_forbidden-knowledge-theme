@@ -6,19 +6,14 @@ A fan-made theme for Arkham Investigator that brings a dark, mysterious aestheti
 
 1. Go to **Settings** in Arkham Investigator App
 2. Click **Install Theme**
-3. Enter one of the following URLs:
-
-   **Option 1 (Short URL):**
-   ```
-   https://tinyurl.com/ahlcg-theme
-   ```
+3. Enter following URL:
 
    **Option 2 (Direct URL):**
    ```
    https://arkhamlcg.github.io/ai_forbidden-knowledge-theme/theme.json
    ```
-
-4. The theme will be automatically downloaded and applied
+4. Press **Install**
+5. The theme will be automatically downloaded and applied
 
 ## About
 
