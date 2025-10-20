@@ -1,0 +1,9 @@
+{
+	"id": "forbidden-knowledge",
+	"version": "1.0.0",
+	"name": "Forbidden Knowledge",
+	"artworkUrls": [
+		"https://neizerth.github.io/ArkhamInvestigatorData/images",
+		"https://investigator.ahlcg.online/images"
+	]
+}
