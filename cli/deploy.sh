@@ -3,7 +3,7 @@
 # Create dist folder
 mkdir -p dist
 
-cp theme.json dist/theme.json
+cp theme/theme.json dist/theme.json
 # Create theme.zip archive from theme folder
 zip -r dist/theme.zip theme/
 
